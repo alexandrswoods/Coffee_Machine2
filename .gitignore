@@ -1,0 +1,29 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Problems/A simple calculator/out/
+/Problems/A simple calculator/out/production/classes/
+/Problems/Check the value/out/
+/Problems/Check the value/out/production/classes/
+/Problems/Fill the declaration/out/
+/Problems/Fill the declaration/out/production/classes/
+/Problems/From string to a number/out/
+/Problems/From string to a number/out/production/classes/
+/Problems/Profit/out/
+/Problems/Profit/out/production/classes/
+/Problems/Raise to the power/out/
+/Problems/Raise to the power/out/production/classes/
+/Problems/Shape/out/
+/Problems/Shape/out/production/classes/
+/Problems/The sequence/out/
+/Problems/The sequence/out/production/classes/
+/Problems/The sign of a number/out/
+/Problems/The sign of a number/out/production/classes/
+/Problems/The smallest value/out/
+/Problems/The smallest value/out/production/classes/
+/Problems/The sum of elements/out/
+/Problems/The sum of elements/out/production/classes/
+/Problems/Vowel or not/out/
+/Problems/Vowel or not/out/production/classes/
